@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Rahul Nair</h1>
 <h3 align="center">A passionate Full Stack Developer from Mumbai India</h3>
 
-- 🔭 I’m currently working on [O2 Web
-App](https://github.com/Rahulnair1234/O2-The-Fest) - 🌱 I’m currently learning
-**NextJS** - 🤝 I’m looking for help with **Learning Designing** - 👨‍💻 All of my
-projects are available [here](https://rahul-nair-portfolio-site.web.app/) - 💬
-Ask me about **ReactJS,MongoDB,AI,ML** - 📫 How to reach me
-**rahulsunilnair1074@gmail.com** - ⚡ Fun fact **I consume Anime as my
-food.😎😎**
+- 🔭 I’m currently working on [O2 Web App](https://github.com/Rahulnair1234/O2-The-Fest)
+
+- 🌱 I’m currently learning **NextJS**
+
+- 🤝 I’m looking for help with **Learning Designing**
+
+- 👨‍💻 All of my projects are available [here](https://rahul-nair-portfolio-site.web.app/)
+
+- 💬 Ask me about **ReactJS,MongoDB,AI,ML**
+
+- 📫 How to reach me **rahulsunilnair1074@gmail.com**
+
+- ⚡ Fun fact **I consume Anime as my food.😎😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rahul-nair-66a189228" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="rahul-nair-66a189228"
-      height="30"
-      width="40"
-  /></a>
+<a href="https://linkedin.com/in/rahul-nair-66a189228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-nair-66a189228" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
