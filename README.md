@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rahul Nair</h1>
 <h3 align="center">A passionate Full Stack Developer from Mumbai India</h3>
 
-- 🔭 I’m currently working on [O2 Web App](https://github.com/Rahulnair1234/O2-The-Fest)
+- 🔭 I’m currently working on [Chatsonic](https://github.com/Rahulnair1234/chatsonic)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Socket.io**
 
 - 🤝 I’m looking for help with **Learning Designing**
 
 - 👨‍💻 All of my projects are available [here](https://rahul-nair-portfolio-site.web.app/)
 
-- 💬 Ask me about **ReactJS,MongoDB,AI,ML**
+- 💬 Ask me about **NextJS ,ReactJS,MongoDB,AI,ML**
 
 - 📫 How to reach me **rahulsunilnair1074@gmail.com**
 
-- ⚡ Fun fact **I consume Anime as my food.😎😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
