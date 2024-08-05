@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Nair</h1>
 <h3 align="center">A passionate Full Stack Developer from Mumbai India</h3>
 
-- 🔭 I’m currently working on [Chatsonic](https://github.com/Rahulnair1234/chatsonic)
 
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **Docker**
 
 - 🤝 I’m looking for help with **Learning Designing**
 
