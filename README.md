@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 🤝 I’m looking for help with **Learning Designing**
+- 🤝 I’m looking for help with **Learning UI/UX**
 
 - 👨‍💻 All of my projects are available [here](https://rahul-nair-portfolio-site.web.app/)
 
