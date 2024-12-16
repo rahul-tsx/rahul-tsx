@@ -137,11 +137,17 @@
 ![](https://komarev.com/ghpvc/?username=rahul-tsx)
 
 <div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahul-tsx&theme=dark&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
+  </div>
+<br/><br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-tsx&show_icons=true&theme=radical" alt="Rahul's GitHub Stats"/>
 </div>
 
 <br/>
 <br/>
+
 <div align="center">
     <a href="https://drive.google.com/file/d/1M8v-dLq3-kVqxN0kXbYmRhdAZx9IVcPd/view" target="_blank">
         <img src="https://img.shields.io/badge/Download%20Resume-007BFF?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume">
