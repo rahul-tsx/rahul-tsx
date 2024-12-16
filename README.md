@@ -135,14 +135,15 @@
 ### 📈 GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=rahul-tsx)
-
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahul-tsx&theme=dark&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
+<div align="center" style="display: flex; flex-wrap: ">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahul-tsx&theme=highcontrast" alt="GitHub Streak" /></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=rahul-tsx&show_icons=true&theme=highcontrast" alt="Rahul's GitHub Stats"/>
   </div>
+
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-tsx&show_icons=true&theme=radical" alt="Rahul's GitHub Stats"/>
+ 
 </div>
 
 <br/>
